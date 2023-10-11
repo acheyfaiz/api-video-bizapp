@@ -1,6 +1,14 @@
 {
   "video": [
     {
+      "id": 6,
+      "title": "Cipta Sales Page dengan Bizappage.",
+      "desc": "Ikuti video tutorial bagaimana untuk cipta sales page, saluran chanel promosi jualan terbaru BIZAPP. Fungsi Bizappage, tersedia untuk pengguna Ultimate.",
+      "img": "https://bizappx.s3.ap-southeast-1.amazonaws.com/images/tutorial-video/bizappage.jpg",
+      "url": "https://youtu.be/yQuLvwFJUXY?si=Nu3Cvl8rrplZExA7",
+      "type": "YT"
+    },
+    {
       "id": 1,
       "title": "TUTORIAL INTEGRASI SHOPEE : Sync Jualan anda dari Shopee!",
       "desc": "BIZAPP juga boleh urus order anda dari Shopee. Video tutorial ini menerangkan secara langkah demi langkah bagaimana untuk link kan akaun Shopee anda dengan BIZAPP.\n\nSelamat mencuba.",
