@@ -1,6 +1,14 @@
 {
   "video": [
     {
+      "id": 8,
+      "title": "TUTORIAL TETAPAN KOMISEN PASS-UP",
+      "desc": "Panduan cara menetapkan komisen pass-up untuk setiap level bagi bisnes model ejen dropship & team sales. Keterangan modul komisen pass-up juga diceritakan.",
+      "img": "https://bizappx.s3.ap-southeast-1.amazonaws.com/images/tutorial-video/pass-up.jpg",
+      "url": "https://youtu.be/BvDbgiHBwyQ?si=RYWmuol7r9ScLvnv",
+      "type": "YT"
+    },
+    {
       "id": 7,
       "title": "TUTORIAL TETAPAN KOMISEN BONUS PRESTASI",
       "desc": "Panduan cara menetapkan komisen bonus prestasi untuk setiap kumpulan ejen dropship & team sales.",
